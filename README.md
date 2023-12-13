@@ -1,1 +1,1 @@
-Ce projet est un clone d'expérimentation crée par le dr.Vegapunk !
+J'ai réussi à faire clone, pull et je m'apprête à faire push
